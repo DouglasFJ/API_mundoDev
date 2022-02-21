@@ -154,6 +154,6 @@ class App:
 
 root = Tk()
 root.title('API MUNDO DEV - By Douglas FJ')
-root.iconbitmap('icone.ico')
+#root.iconbitmap('icone.ico')
 App(root)
 root.mainloop()
